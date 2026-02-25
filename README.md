@@ -1,14 +1,21 @@
-# -html-css-zoom
+In questo progetto ho imparato a riprodurre un layout partendo da uno screenshot, lavorando prima sulle macro‑aree della pagina e poi sui dettagli. Ho migliorato la mia capacità di organizzare l’HTML in modo ordinato e di usare il CSS per gestire spaziature, allineamenti e proporzioni.
+Ho anche imparato a usare unità relative alla viewport come vw e vh per creare sezioni più flessibili e responsive, e ho utilizzato immagini segnaposto per velocizzare lo sviluppo del layout.
 
-Ciao Ragazzi,
-esercizio di oggi: Zoom
-nome repo: html-css-zoom
+Tecnologie usate:
 
-Riproduciamo il layout come da screenshot (che rimane il nostro riferimento principale).
-Analizziamo sempre prima il layout e scriviamo dei commenti per individuare le macroaree.
-Facciamo un passo alla volta e puntiamo alla semplicità.
-Consigli
-1. Teniamo sempre un approccio ordinato, quindi come sempre pensiamo prima a far funzionare le macroaree, se quelle funzionano allora passiamo al dettaglio.
-2. Visto la struttura del layout, forse stavolta potrebbero tornarci utili vw e vh! ;)
-3. Per inserire delle immagini segnaposto è possibile utilizzare un servizio tipo lorem ipsum ma per le immagini, come questo: https://picsum.photos/
-Buon Lavoro!
+HTML5 
+CSS3
+Unità viewport (vw, vh) 
+Immagini segnaposto
+
+// ENG
+
+In this project I learned how to reproduce a layout from a screenshot, starting with the main macro‑areas and refining the details afterward. I improved my ability to structure clean HTML and use CSS to manage spacing, alignment, and proportions.
+I also practiced using viewport units like vw and vh for flexible responsive sections, and I used placeholder images to speed up layout development.
+
+Tech used:
+
+HTML5 
+CSS3
+Unità viewport (vw, vh) 
+Placeholder images
